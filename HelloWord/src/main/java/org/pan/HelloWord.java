@@ -2,7 +2,8 @@ package org.pan;
 
 public class HelloWord {
 	public String sayHello(String str){
-		return "hello aaaaabbb"+str;
+		str="这个是aaa分支新增的一行";
+		return "hello aaaa111111111abbb"+str;
 	}
 
 }
