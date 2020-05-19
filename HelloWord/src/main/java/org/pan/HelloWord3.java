@@ -9,8 +9,8 @@ public class HelloWord3 {
 	public static void main(String[] argsaaaaaa){
 		
 	}
-	//aaa分支的dataDeal函数
-	private void dateDeal() {
+	//push推送冲突测试
+	public void dateDeal11111() {
 		
 	}
 
